@@ -1,5 +1,5 @@
 # TD 5 - Factors model and PCA
-The class will be divided in 10 groups to make a analysis on a suggested financial subject. There are 4 problematics :
+The class will be divided in 10 groups to make an analysis on a suggested financial subject. There are 4 problematics :
 - *Fundamental analysis* = Analyze how fundamentals influence earning profits by share
 - *Financial distress* = Analyze how variables influence the financial distress
 - *Exchange rate* = Analyze how exchange rates influence the EUR/DOL
